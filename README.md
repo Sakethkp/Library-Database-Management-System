@@ -1,1 +1,2 @@
 # Library-Database-Management-System
+The objective of this project is to design and implement a database management system for a public library. The system will help the library staff manage their resources, including books, magazines, digital media, and other materials. Additionally, it will provide efficient access to library members’ information and facilitate borrowing and tracking of library materials. The library management system should ensure data integrity and minimize redundancy for both library staff and members.
